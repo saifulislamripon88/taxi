@@ -1,0 +1,601 @@
+
+@media (max-width: 575.98px) { 
+    /* header section design start here */
+    .logo_img img {
+        width: 80px;
+        height: 54px;
+    }
+    .menu ul li a {
+         margin: 0;
+    }
+    /* header section design end here */     
+    
+    /* banner section design start here */
+    .banner {
+        background-color: #f7bc00;
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    .carousel_s_image {
+        margin-left: 0px;
+    }
+    .carousel_s_image img {
+        padding: 20px 50px 10px;
+    }
+    .carousel_s_content h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .carousel_s_content p {
+        margin-top: 14px;
+    }
+    .c_btn {
+        padding: 8px 18px;
+        margin-top: 14px;
+    }
+    .c_cr_ind {
+        margin-bottom: -40px;
+    }
+    /* banner section design end here */    
+ 
+    /*about section design start here  */
+    .about {
+        padding: 40px 0 20px;
+    }
+    .c_btn2 {
+        padding: 8px 18px;
+        margin-top: 14px;
+    }
+      .about_image img {
+        padding: 0 50px;
+    }
+    
+    .about_content h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+      /* about section design end here */   
+
+        
+  /* service section design start here */
+  .services {
+    padding: 0 0 40px;
+}
+
+.services_content h2 {
+    font-size: 20px;
+}
+.services_content h4 {
+    font-size: 18px;
+}
+
+  /* service section design end here */
+
+    /* service2 section design start here */
+.services2{
+    padding: 0 0 40px;
+}
+
+
+.services2 h1 {
+  font-size: 22px;
+}
+.services2_content {
+    margin-top: 30px;
+    padding: 22px 8px;
+}
+
+
+.services2_content h3 {
+    font-size: 20px;
+}
+
+/* service section2 design end here */
+
+
+/* vehicle section design start here */
+.vehicle{
+    padding: 0 0 50px;
+}
+.vehicle h1{
+    font-size: 22px;
+}
+
+.vehicle_menu ul li {
+    margin-left: 7px;
+}
+
+.vehicle_menu ul li a {
+    padding: 4px 4px;
+}
+
+.vehicle_box_content h3{
+    font-size: 20px;
+}
+
+
+/* vehicle section design end here */
+
+/* testimonial section design start here */
+.testimonial{
+    padding: 50px 0;
+}
+.testimonial h1 {
+   font-size: 22px;
+}
+.custom_item {
+    margin-top: 20px;
+}
+.c_btn_icon {
+    width: 6%;
+}
+
+.custom_item h5 {
+    font-size: 16px;
+}
+.custom_item h3 {
+    font-size: 20px;
+}
+.custom_item p {
+    width: 82%;
+}
+.custom_item span {
+    font-size: 24px;
+}
+/* testimonial section end here */
+
+/* packages section start here */
+.packages {
+    padding: 50px 0 50px;
+}
+.packages h1 {
+    font-size: 22px;
+}
+.packages_content h3 {
+    font-size: 20px;
+}
+.packages_content h4 span {
+    font-size: 22px;
+}
+.packages_content p {
+    margin-top: 14px;
+}
+.c_btn3 {
+    padding: 8px 18px;
+}
+/* packages section end here */
+      
+/* contact section design start here */
+.contact {
+    padding: 0 0 50px;
+}
+.contact h1 {
+    font-size: 22px;
+}
+.contact_form {
+    padding: 0px 40px 30px;
+}
+
+.custom_form_control_2 {
+    margin-top: 10px;
+}
+.contact_btn {
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+/* contact section design end here */
+
+/* footer section design start here */
+.footer_content h3 {
+    font-size: 20px;
+}
+/* footer section end here */
+
+
+
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header section design start here */
+    .logo_img img {
+        width: 90px;
+        height: 60px;
+    }
+    .menu ul li a {
+         margin: 0;
+    }
+    /* header section design end here */    
+
+    /* banner section design start here */
+    .banner {
+        background-color: #f7bc00;
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    .carousel_s_image {
+        margin-left: 0px;
+    }
+    .carousel_s_image img {
+        padding: 30px 70px;
+    }
+    .carousel_s_content h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .carousel_s_content p {
+        margin-top: 14px;
+    }
+    .c_btn {
+        padding: 8px 18px;
+        margin-top: 14px;
+    }
+    .c_cr_ind {
+        margin-bottom: -40px;
+    }
+    /* banner section design end here */
+
+   /*about section design start here  */
+   .about {
+    padding: 50px 0;
+}
+.c_btn2 {
+    padding: 8px 18px;
+    margin-top: 14px;
+}
+  .about_image img {
+    padding: 0 60px;
+}
+
+.about_content h2 {
+    font-size: 22px;
+    line-height: 40px;
+}
+  /* about section design end here */
+
+  
+  /* service section design start here */
+  .services {
+    padding: 0 0 50px;
+}
+.services_content {
+    padding-top: 10px;
+}
+.services_content h2 {
+    font-size: 20px;
+}
+.services_content h4 {
+    font-size: 18px;
+}
+ /* service section design end here */
+
+ 
+  /* service2 section design start here */
+.services2{
+    padding: 0 0 50px;
+}
+.services2 h1 {
+  font-size: 22px;
+}
+.services2_content {
+    margin-top: 30px;
+}
+
+.services2_content h3 {
+    font-size: 20px;
+}
+
+/* service section2 design end here */
+
+
+/* vehicle section design start here */
+.vehicle{
+    padding: 0 0 50px;
+}
+.vehicle h1{
+    font-size: 22px;
+}
+.vehicle_box_content h3{
+    font-size: 20px;
+}
+
+.vehicle p {
+    margin: 0 auto;
+    width: 80%;
+}
+
+
+/* vehicle section design end here */
+
+
+
+/* testimonial section design start here */
+.testimonial{
+    padding: 50px 0;
+}
+.testimonial h1 {
+   font-size: 22px;
+}
+.custom_item {
+    margin-top: 20px;
+}
+.testi_img img {
+    width: 110px;
+}
+.c_btn_icon {
+    width: 4%;
+}
+.custom_item h3 {
+    font-size: 20px;
+}
+.custom_item h5 {
+    font-size: 16px;
+}
+.custom_item p {
+    width: 82%;
+}
+.custom_item span {
+    font-size: 30px;
+}
+/* testimonial section end here */
+
+/* packages section start here */
+.packages {
+    padding: 50px 0 50px;
+}
+.packages h1 {
+    font-size: 22px;
+}
+.packages_content h3 {
+    font-size: 20px;
+}
+.packages_content h4 span {
+    font-size: 22px;
+}
+.packages_content p {
+    margin-top: 14px;
+}
+.c_btn3 {
+    padding: 8px 18px;
+}
+/* packages section end here */
+
+
+/* contact section design start here */
+.contact {
+    padding: 0 0 50px;
+}
+.contact h1 {
+    font-size: 22px;
+}
+.contact_form {
+    padding: 0px 40px 30px;
+}
+.custom_form_control_2 {
+    margin-top: 15px;
+
+}
+/* contact section design end here */
+
+/* footer section design start here */
+.footer_content h3 {
+    font-size: 19px;
+}
+
+/* footer section design end here */
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header section design start here */
+
+    .menu ul li a {
+         margin: 0;
+    }
+    /* header section design end here */
+
+    /* banner section design start here */
+    .banner {
+        background-color: #f7bc00;
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    .carousel_s_image {
+        margin-left: 0px;
+    }
+    .carousel_s_image img {
+        padding: 30px 70px;
+    }
+    .carousel_s_content h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .c_btn {
+        padding: 10px 20px;
+        margin-top: 14px;
+ 
+    }
+
+    .c_cr_ind {
+        margin-bottom: -40px;
+    }
+    /* banner section design end here */
+
+  /*about section design start here  */
+  .about {
+    padding: 50px 0;
+}
+.c_btn2 {
+    padding: 10px 20px;
+    margin-top: 14px;
+}
+  .about_image img {
+    padding: 0 70px;
+}
+  /* about section design end here */
+
+  /* service section design start here */
+  .services {
+    padding: 0 0 10px;
+}
+.services_content {
+    padding-top: 20px;
+}
+
+.services_content h2 {
+    font-size: 28px;
+}
+.services_content h4 {
+    font-size: 20px;
+}
+
+  /* service section design end here */
+
+  /* service2 section design start here */
+  .services2{
+    padding: 50px 0;
+}
+.services2 h1 {
+  font-size: 30px;
+}
+
+.services2_content h3 {
+    font-size: 22px;
+}
+
+/* service section2 design end here */
+
+/* vehicle section design start here */
+.vehicle{
+    padding: 0 0 50px;
+}
+.vehicle h1{
+    font-size: 30px;
+}
+.vehicle_box_content h3{
+    font-size: 22px;
+}
+/* vehicle section design end here */
+
+/* testimonial section design start here */
+.testimonial{
+    padding: 50px 0;
+}
+.testimonial h1 {
+   font-size: 30px;
+}
+.custom_item {
+    margin-top: 20px;
+}
+.c_btn_icon {
+    width: 3%;
+}
+.custom_item h3 {
+    font-size: 22px;
+}
+.custom_item p {
+    width: 82%;
+}
+/* testimonial section end here */
+
+
+/* packages section start here */
+.packages {
+    padding: 50px 0 50px;
+}
+.packages h1 {
+    font-size: 30px;
+}
+.packages_content h3 {
+    font-size: 22px;
+}
+.packages_content h4 span {
+    font-size: 24px;
+}
+.packages_content p {
+    margin-top: 14px;
+}
+.c_btn3 {
+    padding: 8px 26px;
+}
+/* packages section end here */
+
+/* contact section design start here */
+.contact {
+    padding: 0 0 50px;
+}
+.contact h1 {
+    font-size: 30px;
+}
+.contact_form {
+    padding: 0px 70px 30px;
+}
+
+.custom_form_control_2 {
+    margin-top: 15px;
+
+}
+
+/* contact section design end here */
+
+/* footer section design start here */
+.footer_content h3 {
+    font-size: 21px;
+}
+
+/* footer section design end here */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* header section design start here */
+    .menu ul li a {
+        margin: 0 10px;
+    }
+    /* header section end here */
+
+    /* banner section design start here */
+    .carousel_s_content h1 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+    /* banner section design end here */
+
+    /* about section design start here */
+    .about_content h2 {
+        font-size: 24px;
+    }
+
+    /* about section design end here */
+
+    /* services section start here */
+    .services2_content h3 {
+        font-size: 21px;
+    }
+    /* service section end here */
+
+    /* packages section start here */
+    .packages_content h4 {
+        font-size: 18px;
+    }
+
+    /* contact section design start here */
+    .contact_form {
+        padding: 0px 150px 30px;
+    }
+    /* contact section design end here */
+
+ }
+
+ /* Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+ 
+}
+
+
+ /* Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  
+ }
